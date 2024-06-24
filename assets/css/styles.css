@@ -1,0 +1,13 @@
+.color-box {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    display: inline-block; 
+  }
+
+  #azul { background-color: blue; }
+  #rojo { background-color: red; }
+  #verde { background-color: green; }
+  #amarillo { background-color: yellow; }
+
+  
